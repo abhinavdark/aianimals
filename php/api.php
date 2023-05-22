@@ -2,7 +2,7 @@
 ini_set("display_errors", 0);
 
 // Set up API key, URL, and model
-$API_KEY = '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';
+$API_KEY = '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';
 $url = 'https://api.openai.com/v1/completions';
 $model = "text-davinci-003";
 $chat = "";
